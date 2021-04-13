@@ -1,0 +1,60 @@
+se ven buenas practicas de ingenieria de software
+
+si no saben hacer tests unitarios no van a poder laburar en google, facebook, etc
+concepto de test unitario
+como aplicarlo
+nadie quiere laburar como laburan en google
+
+rol de qa? uno de los temas que vamos a ver
+qa y testing
+
+cuestiones de procesos o metricas que van con los procesos
+
+metricas que son
+indicadores que son
+
+gestion de la configuracion de software: administrar los cambios a lo largo de un proyecto
+
+modelo de calidad
+que es calidad: que pase ciertas pruebas? que cumpla con las expectativas y requisitos? del cliente?
+de quien lo solicite?
+satisfacer las necesidades o requerimientos del cliente o usuario
+
+quien evalua la calidad? el cliente? si el cliente evalua la calidad, la calidad es objetiva o subjetiva?
+se puede medir la calidad? en relacion a los requisitos que hay, no hay un numero exacto que diga si algo es de calidad o no, pero si se cumplen los requerimientos entonces podes medir que algo es de calidad.
+
+la calidad la evaluan los clientes o el usuario
+puedo satisfacer las necesidades de todo el mundo? en que casos si? no se puede satisfacer a todos
+que hago entonces? trato de cumplir con la mayor cantidad de necesidades posibles
+por lo menos las prioritarias? que son las prioritarias
+
+ejemplo: yo estoy desarrollando una aplicacion, how do i know what is the quality of that app for the user?
+	(la aplicacion deberia tener un objetivo central, es decir, para que lo estoy haciendo? en base a eso, mientras mas me acerco el para que lo estoy haciendo mas cumplidas estan las espectativas. lograrlo de la manera mas eficiente posible)
+como hago para saber si estoy satisfaciendo o no la calidad de los usuarios? como la puedo preveer?
+(la calidad se puede medir por la cantidad de tickets por como te estas llevando con el cliente)
+como hago para prevenir la calidad? no solo medirla cuando el cliente ya la está usando, como hago para preveer la calidad de esa aplicacion que voy a desarrollar? 
+la calidad la evalua un usuario cliente, no puedo satisfacer a todos. si yo quiero preveer la calidad de mi aplicacion. como no puedo satisfacer a todo el mundo, que estaria bueno hacer? 
+(targetear, tenes un target de publico, apuntas a que sea lo de mayor calidad para ese publico) bien
+hay que enmentar, al cliente y a los usuarios, a partir de eso deberia apuntar a un segmento.
+es lo mismo desarrollar una aplicacion para personas mayores de 60 que para personas menores de 20? no
+ejemplo claro de si yo voy a desarrollar una app tengo que saber quienes van a ser los clientes, para que? para prever la calidad y saber que cierto tipo de usuarios o clientes esperan ciertas cosas.
+ejemplo: los ancianos a pesar de que les digan que se abran un gmail no dejan de usar hotmail. gmail parece demasiado complicado. microsoft sabe quien es su publico y las cosas que ofrecen. el publico soporta que este lleno de errores.
+cuando salio el primer iphone era malo y no podias hablar por telefono pero a los dos dias se acabó el stock. todos los clientes estaban contentos por mas que no anduviese bien el telefono, (funcion basica de un telefono). porque estaban contentos los clientes? porque podian decir que tenian un iphone, se sienten privilegiados o un grupo selecto por tener algo que tal vez no lo tenia otra gente por mas que no ande. por mas que alguien les diga que es malisimo dicen, "ah pero tengo un iphone". ese era el justificativo que te daban las personas que tenian iphone por mas que andaba mal para hablar.
+
+como puede uno pensar que un producto que es para hablar por telefono y su funcion es muy defectuosa la gente esta contenta igual? porque apple conoce a sus usarios y saben que pueden esperar meses a que arreglen ese problema pero prefieren tener el telefono antes que nadie.
+
+volvo es la marca mas segura de autos del mundo y el proceso de pruebas que tiene volvo no lo tiene ninguna otra empresa. la cantidad de pruebas es muy extensa y las otras empresas tal vez no hacen la misma cantidad pero se enfoncan en otras cosas. si yo les preguntase a ustedes si ahora todos tuvieran la posibilidad de comprar un auto y podes elegir entre renault, fiat y peugeot cada uno va a elegir cosas distintas porque le gustan cosas distintas y las marcas saben a quien le quieren vender sus productos. a pesar de que compres lo que te alcanza, cuando uno puede elegir, elige lo que le gusta en base a sus preferencias.
+
+si algo es de buena o mala calidad es para vos, porque uno pretende otras caracteristicas y tal vez para otra persona no. muchas veces se venden productos masivamente que a veces no se entiende porque se vende tanto si al parecer es una porqueria. eso es una opinion personal. por una razon vende tanto, mas alla de que pueda ser barato. si es barato pero te dura 2 dias tal vez la gente no lo compre. a lo mejor te dura la mitad de lo que te dura uno que vale el triple. pero si la gente lo sigue consumiendo es por algo.
+
+la calidad es subjetiva, depende del usuario y tengo que conocer previamente quien es mi usuario para apuntar la calidad del producto que voy a desarrollar para esas personas.
+
+hay personas que prefieren comprar una birome que dure para siempre a comprar una birome que tal vez se le acaba la tinta a los dos o tres años. y dicen que dura un montón. todo esto es subjetivo. no es que no se puede medir porque es subjetiva, como yo deberia saber a que nicho o segmento de gente voy a apuntar deberia conocer de antemano las preferencias de ese grupo de antemano, para evaluarlo antes. de que lo evaluen las personas porque yo ya se que es lo que esperan. si es que encontre bien el nicho.
+
+calidad de software: calidad aplicada al software
+revisiones tecnicas formales
+
+34:08
+44:33
+
+https://www.youtube.com/watch?v=BRcgBIu2cBw
