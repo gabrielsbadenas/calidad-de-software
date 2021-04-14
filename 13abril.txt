@@ -1,0 +1,107 @@
+maximo responsable de la calidad
+
+
+ciclo deming
+ciclo de mejora continua de 4 pasos
+no representa la calidad de un proceso
+
+costo de la no calidad
+es hacer cosas que no agregan valor, retrabajo
+podrias haberlas hecho bian de primera
+volver a hacer las cosas
+consume recursos hacer algo que no trae valor
+hacer trabajo que no tiene sentido, no agrega valor al producto
+se puede dedicar a otras cosas
+
+para mejorar un proceso 
+tengo que aplicar uno nuevo
+falso
+
+tengo que adaptarlo al proyecto 
+falso
+
+tengo que mejorar el proceso estandar
+true
+
+tengo que actualizar el 
+false
+
+mejora continua modificarlo pero es lo mismo
+reingenieria tirar y empezar de nuevo
+
+
+comite de cambio
+esta integrado por el equipo y el cliente
+falso
+es responsable de aprobar ciertos cambios verdadero
+no todo el equipo
+
+los cambios no tienen que ser aprobados siempre por el comite de cambio
+
+la linea base
+esta definida por el equipo de testing falso
+la linea base la pone el autor, el dueño del producto
+a partir que se define si se pueden hacer mas cambios si lo aprueba el comite
+sirve para saber si los cambios se deben hacer de manera formal o informal verdadero
+la define el autor del elemento de configuracion
+
+plan de calidad
+debe completarse falso
+el responsable de qa no puede depender del gerente de proyecto y ademas es responsabilidad del qa
+describe el proceso a utilizar entre otras cosas verdadero
+
+tailoring o customizacion de procesos se realiza durante la etapa de relevamiento funcional proceso de negocio
+donde se adaptaba el proceso al proyecyo
+participan el pm y el qa verdadero
+no sirve para
+se realiza al inicio de proyecto verdadero
+
+en caso de encontrar que un proceso no se cumple el qa debe informar sobre ese proceso al lider verdadero
+solo se informal al management al momento de encontrarlo verdadero
+
+no es el proceso del proyecto el que tengo que actualizar
+proceso adaptado a ese proyecto
+deberia crearlo como estandar
+
+presentacion metricas
+que es una metrica? resultado de conjuncion de dos o mas medidas
+que es una medida? el valor de un parametro, el resultado de medir
+eso me dice algo? tenes que poder compararlo con otra cosa
+ejemplo de metrica: tickets cerrados por sprint
+cantidad y tiempo
+story points completas por sprint
+para que se usa? (para ver si el equipo esta rindiendo como deberia)
+si uno entiende el contexto dificilmente
+las metricas tienen un unico proposito que es el de tomar una decision, si no hay decisiones no hay metricas. si no se usa no sirve. 
+
+podes sacar numero pero no tomar todas las variables necesarias.
+estamos en tiempo? estamos en el presupuesto? tomar una decision
+para que sirve y como se arman
+otro ejemplo de metricas
+la cantidad de contagiados de covid por dia
+ejemplo: fabrica textil metros de tela por minuto
+me sirve de algo? 10 metros de tela por minuto
+potencial de metros de tela que se pueden producir por minuto
+100km por hora, me dice algo? necesito contexto definido como indicador
+indicador conjunto o rango de valores, interpretacion de la metrica
+si yo desarrollo un software para un auto necesito saber por donde va, calle, avenida o autopista. entre 20 y 40 kmh es el permitido. entre 0 y 20, entre 20 y 21 es minimo, entre 23 y 38 verde, entre 39 y 40 amarillo, 41 para arriba rojo.
+
+no me sirve la metrica si no tengo contexto
+no tomar una accion es una accion. el indicador me dice si estoy bien o mal.
+quien defina la metrica y los indicadores? yo defino los rangos, si hay que tomar acciones o no.
+metricas directas
+no es facil definir metricas
+como calculas las metricas
+costo o esfuerzo va a ser calculado diferentemente depende de la empresa.
+metricas indirectas son subjetivas
+se calculan en base a cosas subjetivas.
+basarse en experiencia previa.
+punto de fusion y punto de caso de uso.
+puntos de funcion google
+5 story points? que son
+FP = cuenta-total x [ 0,65 + 0,01 x Σ (Fi ) ] (1)
+que significa? medida de tiempo definida en el proyecto, cuando tarda el proyecto, tabla estimativa
+tenes buenos requerimientos y estimacion. se usan medidas indirectas para la estimacion. las metricas indirectas se usan para la estimacion porque son cosas subjetivas y no puedo decir que algo tome tal requerimiento. las metricas directas son el resultado de una medicion. las indirectas son calculadas y subjetivas. lo de la semana que viene son metricas directas. calculo previo -> indirectas. se usan para cosas distintas.
+los puntos de funcion son metricas indirectas
+hay que tener conocimiento del proyecto para estimar
+por mas que tengamos planeado llegar temprano al trabajo estimamos que vamos a llegar en horario pero es subjetivo porque algo puede salir mal y llegas tarde. el subte a veces tarda mas y no cumple bien con el horario.
