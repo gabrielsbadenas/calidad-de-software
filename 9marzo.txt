@@ -49,7 +49,11 @@ si algo es de buena o mala calidad es para vos, porque uno pretende otras caract
 
 la calidad es subjetiva, depende del usuario y tengo que conocer previamente quien es mi usuario para apuntar la calidad del producto que voy a desarrollar para esas personas.
 
-hay personas que prefieren comprar una birome que dure para siempre a comprar una birome que tal vez se le acaba la tinta a los dos o tres años. y dicen que dura un montón. todo esto es subjetivo. no es que no se puede medir porque es subjetiva, como yo deberia saber a que nicho o segmento de gente voy a apuntar deberia conocer de antemano las preferencias de ese grupo de antemano, para evaluarlo antes. de que lo evaluen las personas porque yo ya se que es lo que esperan. si es que encontre bien el nicho.
+hay personas que prefieren comprar una birome que dure para siempre a comprar una birome que tal vez se le acaba la tinta a los dos o tres años. y dicen que dura un montón. todo esto es subjetivo. no es que no se puede medir porque es subjetiva, como yo deberia saber a que nicho o segmento de gente voy a apuntar deberia conocer de antemano las preferencias de ese grupo de antemano, para evaluarlo antes. de que lo evaluen las personas porque yo ya se que es lo que esperan. si es que encontre bien el nicho. si entendi bien las necesidades de estas personas. 
+
+nos fijamos en los clientes externos o internos? hay que satisfacer a los dos. documento de especificacion es generado por un analista funcional. si el desarollador no entiende el documento es de mala calidad. apuntando al cliente final.
+
+
 
 calidad de software: calidad aplicada al software
 revisiones tecnicas formales
