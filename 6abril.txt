@@ -1,0 +1,20 @@
+los maximos responsables de la calidad de una empresa son el dueño de la empresa y el directorio (management de la empresa).
+
+El ciclo de deming es un ciclo de mejora continua.
+
+El costo de no calidad es el retrabajo y hacer cosas que no agregan valor.
+
+Para mejorar un proceso tengo que modificar el proceso standar/generico.
+
+El comite de cambio es responsable de aprobar o no ciertos cambios (los que necesitan aprobacion del comite), antes de decidir sobre el cambio debe estar informado sobre el impacto del mismo.
+
+Los cambios dentro de un proyecto de software se pueden hacer de manera informal si no tiene linea base el ECS.
+
+La linea base sirve para saber si los cambios se deben hacerse de manera formal o informal, la ECS cuando esta maduro (o terminado) el ECS que esta desarrollando.
+
+El plan de calidad describe el proceso a utilizar, los checklist definidos, las fechas probables de auditorias entre otras cosas.
+
+El tailoring o reunion de customizacion de procesos participan el PM o TL y el QA, se realiza al inicio del proyecto.
+
+en caso de encontrar que un proceso no se cumple el qa debe informar sobre ese proceso al lider
+solo se informal al management al momento de encontrarlo

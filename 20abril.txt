@@ -1,0 +1,133 @@
+clase pasada
+que son metricas
+conjuncion de dos o mas medidas
+no es el resultado de una medicion
+se hacen porque se quiere hacer algo con esa metrica
+sirven para tomar decisiones 
+si no hay una pregunta que responder
+necesita un contexto a traves de los indicadores
+nos ayuda a identificar
+las metricas e indicadores no son algo universal
+cada empresa tiene los suyos
+las metricas se acomodan a lo que a uno le convienen
+como se calcula la inflacion es algo arbitrario que se calculan con cosas que no todos consumen
+esos precios pueden ser algo controlado
+la inflacion suele salir mas baja que la real
+las variables las tiene el gobierno
+las metricas e indicadores las define el interesado en responder esas preguntas
+alguien con conocimiento sobre el negocio
+metricas indirectas son mas subjetivas y no son tan concretas
+son estimaciones, no son mediciones
+como es que se calculan las metricas indirectas es en base a cosas objetivas, experiencias previas, es estimativo
+la experiencia previa es lo que te da la aproximacion a eso que queres llegar
+te mejora en cuanto a la estimacion pero sigue siendo una estimacion
+solo te ayuda a reducir el grado de incertidumbre
+las metricas directas son el resultado de una medicion
+
+grupo 1
+planilla de riesgos
+calcular el impacto y los riesgos del proyecto
+indicadores: heatmap
+plan de accion
+plan de contingencia
+si surge un riesgo
+como sabes de cuando es la foto? como se si el dato no es de hace un mes?
+planilla hecha al inicio del proyecto
+una vez cada sprint
+en funcion al impacto y la probabilidad
+
+grupo 2
+metrica como definir el desempeño ofensivo de un equipo
+promedio de goles metidos por un equipo por partido
+indicadores si esta 25% sobre el promedio
+si es menor a eso el desempeño ofensivo es malo
+si la cantidad de goles promedio en los partidos de la liga es entre un 25% mas o menos del promedio es regular.
+no es lo mismo si es un equipo malo o uno bueno (river o arsenal)
+para que sirve? para un tipo de tecnico que quiere ser ofensivo
+
+grupo 3
+metrica de la velocidad
+cuanto trabajo puede hacer el equipo por sprint
+grado de compromiso con el grado de trabajo
+registro del desempeño del equipo
+hora o objetivo? eficiencia del equipo
+cuanto trabajo se puede hacer por sprint
+rendimiento laboral es lo que se mide
+lo planificado contra lo que se hizo
+cuantas horas se pudieron cumplir de las planificadas
+para que sirve? para evaluar la eficiencia del proyecto
+tenes en cuenta si alguien se va? no porque es un equipo estable
+es muy raro que se vaya todo el equipo
+entra en juego el plan de riesgos
+hay documentacion de como se maneja todo
+se mitiga lo mas posible
+una cosa es como se mitiga y otra es si se tiene que tener en cuenta
+lo mejor que se puede hacer es mitigar el riesgo para que no influya en la estadistica final
+sirve para
+la velocidad del equipo no se suma? si mi capacidad es de 300 story points y ninguna se terminó
+llegaste a un 80%
+porque no se terminaron? porque hay 
+por mas que no se llegue a terminar se trabajó algo
+
+grupo 4
+metrica de competencia, performance en un grupo de programadores
+cuantos modulos finalizado en determinada fecha
+asignacion eficaz de tareas, mas tareas por sprint
+es lo mismo un junior que un senior? hay que tener en cuenta el seniority
+facilidad de una persona de resolver requerimientos para asignar mejor los requerimientos
+depende el tipo de requerimiento
+no tienen experiencia en determinado campo y tardan mas tiempo
+depende el contexto del lenguaje, de herramientas
+solo se toma el historico, si bien es un promedio hay que ver el tipo de proyectos
+las personas que estan hace poco y no tienen medicion no saben cuanto les tenes que asignar.
+medir la curva de aprendizaje de alguien
+si algo se usa para evaluar es medio complicado
+si se quiere medir algo subjetivo como un ser humano es complicado
+cuales son los indicadores? la cantidad de modulos resueltos por una persona en una cantidad de tiempo
+compara si lo hizo o no
+lo que se quiere medir es lo asignado y lo real es que hizo menos. que porcentaje de tareas hizo?
+
+control estadistico de procesos
+tener controlados los procesos
+cuando se tienen bajo control se sabe cuanto duran entre un minimo y maximo
+siempre se ejecuta dentro de esos limites
+cuando podes preveer cuanto te demandan ciertos procesos
+deberian quedar aca, en el medio
+no tiene que ser algo muy amplio, los limites deben ser razonables
+no tiene que tener un insidencia mayor
+definir en base a historias
+si no se mide no puede tener control estadistico
+cuanto se tarda en hacer una cosa en un proyecto? se tarda entre cierta cantidad de dias y cierta cantidad de semanas
+lo que tener que hacer una medida
+donde caen los puntos y en base a eso veo como estoy
+tener previsibilidad porque tenes una estadistica
+si tenes procesos definidos, si haces lo mismo deberia tardar lo mismo
+lo que deberia pasar es que se achique la cuota mayor y la cuota menor
+usualmente estan entre estos dos numeros
+solo se mejora la eficiencia es mejorando el proceso
+si tarde entre 10 y 11 dias la diferencia es muy chica
+la unica manera de mejorar es modificando el proceso
+cuando uno achica es porque mejoro el proceso
+deberia tener una incidencia en la eficacia
+la modificacion va a tener una incidencia en el tiempo que va a tardar
+las estimaciones son muy buenas si hay control estadistico de procesos
+para llegar al nivel 5
+los procesos estan registrados
+si no entran sos escepciones
+no siempre la modificacion va a hacer que mejore
+si no tengo una medicion o control puedo asumir que fue bien
+si algo es peor hay que hacer un rollback
+macdonalds tiene todo bajo control del proceso
+tienen controlado cuanto tiempo tardan en hacer cada cosa
+depende si cambia el contexto
+si pasa eso la medida vieja no cuenta porque no se puede medir igual
+a pesar de que se modifique el contexto pero no el proceso
+
+semana que viene mediciones tecnicas formales (testing estatico)
+
+
+
+
+
+
+
