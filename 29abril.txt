@@ -1,0 +1,81 @@
+como definir una metrica
+metricas indirectas
+resultado de un calculo previo, son subjetivas, una estimacion, varian segun la experiencia previa
+te devuelve puntos de funcion? ejemplo de metrica indirecta
+uno calcula los story points en base a estimacion
+ 
+revision tecnica formal.ppt
+tambien conocido como revisiones por pares
+es testing
+testing dinamico es el que conocemos
+testing estatico
+se puede hacer una revision de algo que sea conveniente hacer una
+que artefactos tendria que hacer revisiones?
+codigo, documentacion, planos y plan de prueba
+planos en software son el plan, arquitectura del sistema es lo mas importante
+si hay mala arquitectura el software va a durar poco
+diagramas de clase
+si no calculas cuanta gente va a entrar va a salir mal
+no se puede revisar todo porque es muy costoso
+porque es estatico? porque es sobre documentacion
+no hay interaccion porque no es software
+en el dinamico se ingresa un dato y se revisa el resultado
+en el estatico solo se lee por ejemplo un caso de uso
+rtf: tipo de testing estatico con el objetivo de prevenir errores
+se realizan antes que el testing dinamico
+dos tipos de revisiones: formal e informal
+diferencias: tipo de artefacto revisado en cada uno
+fases o etapas del proceso del ciclo de deming
+al inicio del proyecto hay que detectar los artefactos candidatos a revisar como la arquitectura
+para saber cuando revisar los procesos
+cuando se va a desarrollar eso?
+trabajo del qa le pregunta al autor si termino o no el artefacto que esta desarrollando y recien ahi empieza a revisar
+en la formal cuando el qa pregunta es igual pero se envia a todos los que van a revisar el artefacto
+3 roles en rtf autor, revisores y moderador -> alguien que trabaja como intermediario entre dos partes para que no se vayan por las ramas y que cumplan con los tiempos, lleva la reunion
+el qa cuando le dicen que esta bien organiza la reunion y invita a los revisores que son pares, persona que puedan revisar eso
+una vez enviado las personas revisan los artefactos antes de la reunion y marcan los errores
+se pide que antes de la reunion todo este revisado
+cada uno comenta lo que encontro para que el autor lo explique
+se ve si es un error o no
+cuando es un error hay que reportarlo
+los errores que surgen en la reunion
+hay que reportarlos porque 
+como se si sirven las revisiones? si no se tienen datos no se puede comprar
+entre 5 y 7 personas y que no duren mas de 2 horas
+si no hay numeros no se puede medir
+el moderador suele ser el qa
+el moderador tiene que ser una persona que entienda del tema
+lo que se hace es capacitar a persona para que puedan ser moderadores
+que se testea? el producto o el proceso? el artefacto es un producto
+se testean las dos cosas
+se usan los checklist
+el proceso es como se tienen que hacer las cosas
+objetivo principal: revisar el proceso
+agarro el proceso de programacion si voy a revisar codigo
+
+revision informal
+diferencias: no se reparte material antes de la revision
+se encuentran con el producto en la reunion
+presentacion de lo que hizo el autor
+si es una presentacion va a explicar lo que hizo
+en las revisiones informales se presentan modelos graficos porque son interpretaciones
+si se hace un diagrama de clases, de arquitectura, secuencia, caso de uso
+cuando hay patrones mal implementados
+requieren una explicacion
+se encuentran sugerencias de mejoras
+el moderador recopila todo y se hacen seguimientos
+nunca tienen como objetivo revisar la performance de la persona
+hay que concentrarse en la revision del producto y no la persona
+si una persona tiene muchos errores es culpa de la empresa
+si quiero mejorar eso deberia mejorar recursos humanos porque contratan a alguien que no saben
+como entro esa persona? alguien la contrató
+que seniority tienen que tener para participar en esta reunion? un senior se lo invita para encontrar error, para un junior para que aprenda a analizar y comprenda el proceso
+el junior aprende a como hacer el producto
+
+beneficios indirectos y directos
+inspecciones formales
+walkthrough informales
+ningun beneficio es mas importante que el otro
+el indirecto nos obliga a interactuar con los demas
+se aprende a trabajar en equipo y saber explicar lo que se hizo
+
