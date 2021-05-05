@@ -1,0 +1,75 @@
+porque no se puede revisar todo?
+definir lo mas relevante
+las cosas que no tienen que fallar
+se decide cual se revisa
+solo hay metricas directas o indirectas
+los artefactos revisados en las rtf son cualquier artefacto
+cuando solo se lee el artefacto y no devuelve nada es estatico
+
+modelo de calidad
+quien escribe los modelos? gente que sabe del tema
+iso9001 cmmi
+tipos de modelos de producto y de proceso
+generico iso
+especifico cmmi
+el de producto certifica la calidad de un producto final en particular
+el de proceso la calidad de como se hacen las cosas
+si el producto esta bien el proceso no esta necesesariamente bien
+si tengo buenos procesos deberia tener tendencia a que las cosas salgan bien
+el proceso como hacer pero no que hacer
+los procesos son adaptables y se pueden usar para distintos productos
+los proyectos tienen que tener una planificacion
+el iso se puede aplicar a cualquier cosa, tiene que ver con el alcance
+existen directrices, como se implementan los puntos del iso a la industria del software
+la calibracion significa que las herramientas que se utilizan son fiables
+si se desarrolla una herramienta propia hay que demostrar que anda bien
+modelos de proceso: 
+cmmi se creo en usa, se definio en el instituto de ingenieria de estados unidos, en los 90
+el ministerio de defensa tenia que evaluar a las empresas de software
+estructura basica, mide la madurez de la empresa, entre 1 y 5
+el dia de la fecha se evalua a tal empresa con un cmmi de tanto
+si se quiere certificar se tiene que contactar con la entidad reguladora, ellos te dicen los auditores cercanos
+la diferencia es que iso certifica una entidad y aca te evaluan personas (auditores)
+para ser auditor hay que hacer un curso de 1 año que sale como 20000 dolares o mas
+primero te dan niveles bajos para auditar
+cuando se contacta a uno de su region esta persona viene y evalua los procesos de la empresa
+3 tipos de evaluacion: a, b y c
+a son oficiales y se necesita alguien certificado
+b es mas intenso que el c
+el b es a detalle
+una vez que te muestran como estas con el b y c, se hace el a
+se paga en dolares
+ven el mapeo de procesos contra el modelo, como estan implementados los puntos
+cumplis, cumplis parcialmente o no cumplis
+como hace el auditor para comprobar que cumplen con el modelo
+como se aseguran que cumplen con las buenas practicas? se muestran los proyectos que siguen con el modelo
+como hago con la planificacion de proyectos para asegurarme? entrar a un proyecto y pedir el proceso definido para ese proyecto
+2 puntos de mirada en cuando a la madurez, en cuanto al area de proceso y una de las formas de presentar el modelo. la manera mas comun de presentar el modelo es por nivel
+evaluar por area de proceso o por nivel
+la mayor razon por las que las empresas certifican es por un beneficio economico
+cuando termina la evaluacion se da la devolucion se publica la informacion. tiene una validez de 2 años
+metodos de evaluacion scampi, metodo de como se evalua un modelo
+hay que hacer un curso de 9 a 18 de una semana
+iso9001 a diferencia del cmmi se certifica con una entidad certificadora
+hacen una preauditoria y despues se va a la auditoria oficial
+sistema de gestion de calidad
+iso esta mas orientado a la satisfaccion del cliente y es mas generico
+se usan encuestas
+cmmi esta mas orientado a buenas practicas de ingenieria de software
+el auditor se fija el modelo y dice si cumple o no
+se necesita evidencia codigo, pruebas unitarias
+hace allasgos y te dice si estas certificado o no
+modelos de calidad de proceso
+modelo de calidad de producto de software iso27000
+el producto cumple con los estandares de seguridad (tiene que ver atributo de calidad del producto)
+usabilidad, mantenibilidad, disponibilidad
+no es lo mismo la seguridad necesaria en dos productos distintos
+como hace el modelo para diferenciar esto? que es mas importante en cuanto a disponibilidad? lo que cambia son los indicadores
+cada palabra tiene una metrica
+existen metricas asociadas y difinidas
+para cada industria los indicadores son distintos
+hay varios atributos de calidad
+si yo quiero que mi aplicacion ande rapido tendre redundancia pero es malo para la seguridad
+si le agregan complejidad a la interfaz va a dejar de tener tanta seguridad
+iso corre las metricas en base al rubro de la empresa y corre las metricas en base a los atributos de calidad
+para participar en iso hay que hacer un curso de un dia y los certifican como auditor externo de iso
