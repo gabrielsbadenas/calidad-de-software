@@ -1,0 +1,70 @@
+cmmi
+es un modelo que evalua la capacidad de madurez de una empresa a travez de sus precesos
+tiene 5 niveles
+
+un modelo de calidad de producto
+evalua los atributos de calidad a travez de metricas e indicadores
+
+las mediciones sirven para poder armar metricas
+para tener un punto de partido y poder comparar
+
+los indicadores
+le dan contexto a las metricas
+tienen rangos de valores que deberian ser definidos por la persona entendida en el tema
+
+cantidad de errores por lineas de codigo
+es una metrica
+
+las metricas indirectas son subjetivas
+
+las revisiones
+sirven para prevenir errores
+se revisa el producto y el proceso
+
+las revisiones formales
+requieren preparacion previa para leer y anotar los errores encontrados
+
+las revisiones informales
+el autor tiene que presentar frente a los revisores el artefacto a revisar
+
+el moderador
+tiene que ser una persona idonea y conocer del producto a revisar
+toma nota de los errores encontrados para asignarlos y hacer seguimiento
+
+presentacion testing.ppt
+probar que algo funciona como deberia, que no haga lo que no tiene que hacer
+testing dinamico interaccion con el programa
+
+validacion
+estamos haciendo el producto correcto?
+es sobre el producto
+
+verificacion
+estamos haciendo el producto correctamente
+tiene que ver con el proceso
+
+error es cuando nos equivocamos
+se pueden tener muchos defectos con un solo error porque impacta en muchos lados
+no porque hayan defectos hay fallas
+falla es encontrar el defecto en produccion
+no necesariamente se encuentra el defecto en produccion
+uno reporta una falla pero no siempre se encuentra el origen o error original
+
+no existe el software libre de errores
+cuando se empieza a testear? cuando tengas un primer requerimiento hay que empezar a testearlo
+cuando hay una linea base ya se puede ir revisando los requerimientos
+cuando pasa la revision
+el tester empieza a pensar en las pruebas
+cuando terminamos de testear? cuando no salen mas errores, cuando se termina el tiempo, cuando el fault-rate es mas bajo que un cierto valor especificado.
+test unitario: codigo que testea otro codigo
+
+tipos de testing:
+en test funcional de caja negra solo me interesa la salida, no me interesa como sale la entrada
+test de caja blanca: evaluar la complejidad ciclomatica. cuantos caminos posibles hay. como un lint
+test de regresion: probar algo que ya fue testeado. el primer ciclo es para buscar errores, el segundo para ver si se arreglaron, en la tercera se testea que lo que andaba bien siga andando bien
+pruebas positivas: flujo principal dentro de un caso de uso. prueba que la app hace lo que tiene que hacer.
+lo positivo y negativo no tiene que ver con el resultado, sino con el objetivo. 
+un caso negativo son los casos alternativos del caso de uso. 
+el mas importante es el test positivo
+hay mas tests negativos que tests positivos
+
