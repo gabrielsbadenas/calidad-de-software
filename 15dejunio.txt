@@ -1,0 +1,17 @@
+porque la relacion de la cantidad de test limpios y sucios, tipos de test
+test de regresion, unitario, de sistema
+la aceptacion, la de estres, de volumen, alfa, beta
+profe el testing sucio y limpio es lo mismo que el testing positivo y negativo no? si
+particion de equivalencias, cantidad de casos positivos y negativos.
+ciclo de prueba tiene que ver con la ejecucion de casos de prueba, en el ciclo 1 se tratan de ejecutar todos, pero como no se puede se encuentran error. despues se ejecutan todos los que se pueda y se escribe. en el segundo se prueba lo que se arreglo y lo pendiente. en el tercero se prueba lo ultimo que se haya probado y se hace la regresion, probar que lo que andaba antes siga andando. los ciclos de pruebas tienen que ver con las versiones.
+
+el plan de pruebas lo genera el lider de testing del proyecto y es toda la estrategia que se va a usar, donde se encuentra esa herramienta, en donde se va a usar, en que versiones de sistema operativo se va a usar. todo eso va en el plan de pruebas. donde se encuentran los casos de pruebas.
+
+campos minimos necesarios para generar un caso de prueba. id, pre condicion, pasos, datos, resultado esperado. el objetivo es una accion, dar de alta una empresa valida por ejemplo.
+el objetivo es la accion y el resultado es la consecuencia. los pasos para llegar al objetivo. los datos son los especificos de la prueba en si. resultado esperado seria todo lo que se quiere revisar.
+
+registro de error. cada vez que se encuentre una diferencia entre el resultado esperado y el encontrado hay que reportarlo. 
+
+planificacion esta dentro del plan de pruebas.
+
+
