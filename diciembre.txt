@@ -1,0 +1,7 @@
+test estatico, que tipo de revision se realiza a un caso de uso, como sabe el responsable de QA que se cumplieron con los procesos establecidos, creo que algo de ciclo de tailoring
+1) como se asegura el qa que se cumplan los procesos?
+respuesta: a traves del checklist
+2) un ejemplo de metrica e indicador para esa metrica
+respuesta: no me acuerdo bien el ejemplo que me respondio pero está en el video del oral.
+3) si tengo que hacer una revision de diagramas de casos de uso hago una revision formal o informal?
+respuesta: revision informal

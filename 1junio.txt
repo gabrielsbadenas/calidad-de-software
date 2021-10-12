@@ -1,36 +1,3 @@
-cmmi
-es un modelo que evalua la capacidad de madurez de una empresa a travez de sus precesos
-tiene 5 niveles
-
-un modelo de calidad de producto
-evalua los atributos de calidad a travez de metricas e indicadores
-
-las mediciones sirven para poder armar metricas
-para tener un punto de partido y poder comparar
-
-los indicadores
-le dan contexto a las metricas
-tienen rangos de valores que deberian ser definidos por la persona entendida en el tema
-
-cantidad de errores por lineas de codigo
-es una metrica
-
-las metricas indirectas son subjetivas
-
-las revisiones
-sirven para prevenir errores
-se revisa el producto y el proceso
-
-las revisiones formales
-requieren preparacion previa para leer y anotar los errores encontrados
-
-las revisiones informales
-el autor tiene que presentar frente a los revisores el artefacto a revisar
-
-el moderador
-tiene que ser una persona idonea y conocer del producto a revisar
-toma nota de los errores encontrados para asignarlos y hacer seguimiento
-
 presentacion testing.ppt
 probar que algo funciona como deberia, que no haga lo que no tiene que hacer
 testing dinamico interaccion con el programa
@@ -40,7 +7,7 @@ estamos haciendo el producto correcto?
 es sobre el producto
 
 verificacion
-estamos haciendo el producto correctamente
+estamos haciendo el producto correctamente?
 tiene que ver con el proceso
 
 error es cuando nos equivocamos

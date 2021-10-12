@@ -1,0 +1,58 @@
+proceso
+qa es aseguramiento de calidad y testing es control de calidad 
+qa es el encargado de los procesos, asegura que se cumplan los procesos
+hace un seguimiento de las tareas
+la tarea de testing es para garantizar que hace lo que tiene que hacer
+no existen sistemas libres de errores
+despues prueba que no haga lo que no tiene que hacer
+como controlo que esos procesos se cumplan? algunas cosas se pueden automatizar 
+que puede decir un proceso? cada vez que se hace un cambio se necesita cierta aceptacion
+lo que deberia establecer es que cosas quiero establecer del proceso
+si el proceso dice que tengo que tener un plan de proyecto
+a partir del proceso definido genero un checklist a partir del proceso planificado
+checklist es una serie de preguntas que responden a si, no y no aplica
+como se cuando ejecutar cada punto? deberia haber una planificacion del qa
+customizacion del proceso es parte del tailoring
+el qa va a hacer el checklist luego de haber definido el proceso para ese proyecto
+al lider le interesa definir el proceso
+cuando se ejecuta el checklist? tiene que existir una planificacion
+tiene que haber una planificacion de qa en el plan de proceso
+en las auditorias del qa no se controla el producto, si esta mal hecha la documentacion no es su responsabilidad 
+el qa solo controla la planificacion 
+define procesos y se fija que se cumplan
+que estoy haciendo? testing
+tengo que tener un modelo que describa lo que se quiere para poder
+como lo estoy haciendo? qa
+basado en un proceso definido 
+verificacion:
+controlar que se sigan con los proceso
+validacion:
+controlar los productos
+bug de proceso es sobre la forma en que se hizo
+bug de producto es sobre lo que se hizo
+encuentro issue de qa un proceso que no se esta siguiendo
+como qa se quiere que se cumpla el proceso
+hay que decirle al lider tecnico y a la persona que lo esta haciendo si estan haciendo algo mal
+tiene mas sentido decirle primero decir al que lo hace y despues al lider
+lo que mas interesa es que se corrija
+quien es la mejor persona para definir un proceso? la persona que la hace tiene que definir como hace la tarea porque sabe describir lo que hace
+si soy un tester soy la mejor persona para definir el proseso de testing
+si no esta documentado el proceso, hay que documentarlo
+cuando se encuentra una desviacion levanto un bug de proceso o issue de qa y lo reporto para hacer seguimiento
+el proceso no lo voy a modificar porque ya esta definido 
+una nueva revision despues de reportar y solucionar el bug, seguir la parte de proceso que no se siguio 
+el qa controla que se haya heho eso 
+de quien depende el qa a nivel jerarquico? el management
+que pasa si audito que no se siguen los procesos
+la parte de procesos y qa depende del management, tienen que estar convensidos de que hay que seguir el proceso
+bajan la cultura de calidad
+los qa suelen tener que presentar al management de como vienen los procesos por los proyectos en donde se busca el porque y se define si se lo ignora o si se tiene que seguir proceso 
+management son los responsables de la organizacion
+defino un proceso estandar a nivel organizacion
+si en un proceso estandar tengo que modificar demasiado cada vez que hago tailoring entonces el proceso no seria tan estandar
+hay que modificar o actualizar el proceso estandar porque lleva mucho trabajo
+ciclo de deming planifique la calidad, controlo lo que tenian que hacer contra lo que se hizo, mejorar haciendo una retrospectiva o un pos mortem y de ahi saco las cosas que deberian cambiar son el proceso
+cuando empieza a encontrar varias oportunidades de mejora hay que modificar el proceso
+al final del proyecto hay que hacer una reunion con las lecciones aprendidas para poder mejorar.
+lo que tiene que tener el qa es un plan de calidad, que tiene el proceso definido del proyecto, el checklist, la planificacion
+el qa lo unico que hace es controlar los procesos y esta fuera del proyecto.

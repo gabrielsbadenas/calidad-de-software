@@ -1,0 +1,15 @@
+en el test de caja negra debo validar unicamente la salida y no debe interesarme como funciona el programa.
+
+el testing sirve para prevenir errores.
+
+el testing de integracion se realiza luego de las pruebas unitarias.
+
+un caso de prueba es un escenario a probar, tiene varios valores o campos como ser objetivo y resultado esperado.
+
+el test unitario es desarrollado por el programador o desarrollador.
+
+el testing beta es ejecutado en un ambiente productivo por el usuario.
+
+el plan de pruebas contiene el alcance de las pruebas, debe contener en que tecnologias se va a probar y en que versiones (web, mobile,android,ios).
+
+un test negativo prueba los flujos alternativos y no el camino principal.

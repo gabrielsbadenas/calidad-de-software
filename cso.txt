@@ -1,0 +1,11 @@
+9/3. introduccion a calidad, satisfaccion del cliente
+16/3
+23/3.qa, checklist, errores
+30/3.tailoring,gestion de configuracion de software,artefactos,linea base
+13/4.metricas directas e indirectas,medidas
+20/4.ejemplos de metricas,control estadistico de procesos
+27/4.revision tecnica formal,informal,por pares,testing
+4/5.modelo de calidad,iso9001,cmmi
+1/6.testing,validacion,verificacion,error,defecto,falla,regresion,caja blanca,caja negra funcional
+8/6
+15/6.plan de pruebas

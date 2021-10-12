@@ -1,0 +1,19 @@
+que vimos la clase pasada?
+
+quien es el maximo responsable de la calidad de la empresa? el management
+la calidad debe ser flexible para adaptarse a cualquier contexto
+costos de no calidad son cosas que uno hace y no agregan valor
+qa y qc
+qa con procesos y qc con producto
+tailoring o customizacion del proceso. se define el proceso entre el qa o el pm, el responsable del proyecto, lider es el primero que se entera del proyecto.
+se arranca con un proceso estandar y en caso de ser necesario se trata
+el checklist es la forma de validad que el proceso se cumpla. se crea cuando se crea el proyecto. sirve para asegurarse que se cumpla el proceso.
+
+esta clase
+
+como se cuando ejecutar el checklist? la actividad de qa es una actividad para proteger al proyecto. tiene dependencias entre cada check. como puede planificar las revisiones que son las ejecuciones de los checklist. 
+cual es el input para saber cuando? que puedo tomar de un proyecto para planificar las revisiones? planificacion que para determinada fecha se debe terminar cierta cosa. si no se cumple con el proceso se reporta. eso seria un bug de proceso. aviso al que no esta cumpliendo el proceso y al lider.
+con las lecciones aprendidas del proyecto mejoro el proceso. hay que ver si las mejoras aplican al proceso estandar. antes de mejorar tengo que comparar.
+auditoria externa es el que verifica que el qa este haciendo bien las cosas.
+como se enteran los maximos responsables de la calidad que se estan cumpliendo los procesos? hay que informar los tiempos de realizacion de las cosas. hay que hacer una reunion y hacer una presentacion de los procesos. si el management esta convencido que ese proceso se tiene que seguir el proceso.
+las reuniones mas importantes son las de tailoring y post-mortem. retrospectiva analiza al equipo en si, y la mejora a ese equipo no necesariamente aplica a otro equipo.

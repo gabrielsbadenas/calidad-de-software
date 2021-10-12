@@ -1,0 +1,36 @@
+temas:
+introduccion a calidad de software
+testing
+qa
+revisiones tecnicas formales 
+gestion de la configuracion de software
+metricas
+modelos de calidad
+
+roberto rico calidad total
+
+calidad seria que cumple con un conjunto de requisitos
+el cliente evalua la calidad
+la calidad es que se satisfacen las necesidades del cliente 
+la calidad es subjetiva porque la evaluan personas
+no se puede satisfacer a todo el mundo
+se tiene que saber a quien se dirige el producto 
+en base a eso ver las preferencias de las personas
+
+se puede medir la calidad aunque sea subjetiva? si
+como se puede medir la calidad? entender cuales son sus necesidades para satisfacerlas. comparar lo que esperan con lo que estoy haciendo.
+
+producto es que hago, tester. que sea lo que espera el cliente
+proceso es como hago las cosas. unit test. como construyo ese producto.
+que yo tenga un proceso de calidad me ayuda pero no garantiza que tenga un producto de calidad
+
+los clientes evaluan que les entregamos. al cliente le importa que tiene, no como se hace.
+el cliente evalua la calidad por el producto que consume.
+
+que tiene que ver el proceso con la calidad? cuando empezo a hablarse de procesos o aplicarse procesos de forma seria? con la revolucion industrial. antes se hacia con profesionales y luego se empezo a estandarizar. se estandarizaron procesos para sacar el mismo producto. con un mismo proceso vamos a conseguir el mismo producto. 
+
+como hago para mejorar? ir refinando el proceso. hay que cambiar para mejorar. no se puede mejorar si se hace lo mismo.
+primero hay que encontrar la causa raiz.
+ciclo de mejorar continua, de deming.
+planificar, hacer, medir y mejorar
+aplicar las buenas practicas de como se hace algo

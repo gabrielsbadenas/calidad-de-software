@@ -1,0 +1,13 @@
+ejemplo de metricas
+velocity=story points por sprint
+story point y sprint son medidas 
+las metricas se conforman por 2 o mas medidas
+para que sirve una metrica? para tomar decisiones
+si no tengo una pregunta para responder no sirve para nada la metrica
+no sirve tener numeros y no usarlos, eso es un costo de no calidad
+los indicadores en este ejemplo
+le dan contexto a la metrica de mi empresa
+son rangos de valores
+la misma metrica se puede usar en diferentes empresas pero los indicadores cambian. siempre y cuando las medidas sean las mismas.
+metrica indirecta sirve para estimaciones subjetivas
+se generan a partir de calculos previos subjetivos
