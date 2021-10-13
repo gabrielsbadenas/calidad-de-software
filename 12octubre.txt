@@ -11,3 +11,12 @@ son rangos de valores
 la misma metrica se puede usar en diferentes empresas pero los indicadores cambian. siempre y cuando las medidas sean las mismas.
 metrica indirecta sirve para estimaciones subjetivas
 se generan a partir de calculos previos subjetivos
+todo es relativo, las metricas, los indicadores
+no necesariamente es la realidad lo que muestran las metricas 
+la persona que va a tomar la decision tiene que saber las medidas que le interesan para obtener lo que necesita. tiene que entender las medidas que se toman en cuenta.
+si no entendes sobre el tema haces malas metricas
+metricas directas mido y tengo un resultado, junto las metricas y llego al resultado
+indirectas son subjetivas y antes de medirlas tengo que hacer calculos. por ejemplo story points. se suelen usar para estimaciones. punto de caso de uso cuantos actores hay, que complejidad tiene. en base a ese calculo te da un numero y se pone en una formula y te da el numero de caso de uso.
+se usan para cosas distintas. donde no hay forma para llegar un numero para tomar una decision se usan metricas indirectas que son metricas de estimaciones.
+control estadistico de proceso tiene que ver con la mejora continua porque es donde defino un rango inferior y uno superior de donde deberia caer la metrica que estoy midiendo. proceso de pruebas cuantos bugs deberia tener por sprint? si dice que debo tener entre 2 y 6 bugs criticos por sprint porque me fijo en la historia y yo se que mi proceso deberia caer en ese rango. si esta fuera del control estadistico son escepciones y tengo que mirar que paso. no hay que dejar que caigan siempre afuera ni hacer algo muy amplio. tiene que estar relacionado con la historia, si esta muy acotado puede pasar que caigan siempre afuera.
+que pasa si pueden predecir todo? si una empresa tiene todo bajo control estadistico tiene una ventaja enorme. si se le puede dar predicibilidad, porque historicamente a menos que pasen escepciones una cosa siempre cae en el valor esperado. para mejorar hay que cambiar porque sino el resultado va a ser el mismo. el control estadistico te dice donde va a caer, el indicador te dice si esta bien o esta mal.
