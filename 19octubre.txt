@@ -1,0 +1,19 @@
+19octubre.txt
+revisiones tecnicas formales
+son un tipo de test estatico porque se hace sobre artefactos
+al final de un cambio hay que hacer una revision
+revision formal se revisan escritos, 
+revisiones informales se revisan modelos graficos interpretativos
+inspeccion formal
+walkthrough informal
+etapas de revision: planificacion, preparacion, ejecucion y seguimiento, control
+el moderador hace el seguimiento en el proceso formal
+el proceso de walkthrough es que el autor es el presentador, el qa le pregunta al autor si esta listo, no se reparte el material porque se presenta lo que se hizo. modelo de arquitectura. en estas reuniones se encuentran sugerencias de mejorar mas que errores.
+las dos son importantes y se hacen para cosas distintas.
+se revisa el producto y no la persona.
+el moderador tiene que saber llevar a cabo las reuniones
+entre 5 y 6 personas no mas de 2 horas. si se extiende mas es un costo y porque no entra en el presupesto.
+los revisores tienen que ser pares idoneos del que muestra el producto, tiene que entender sobre lo que se esta hablando, al igual que el moderador. se puede poner un junior para que aprenda.
+en el walkthrough suelen haber mas personas pero tampoco tantas porque se arma descontrol.
+efectividad de revision: errores encontrados, criticidad y tiempo.
+rtf, gestion configuracion y metricas

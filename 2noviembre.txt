@@ -1,0 +1,40 @@
+la validacion tiene que ver con el producto
+la verificacion tiene que ver con si estamos verificando el proceso
+error es lo que cualquiera puede cometer
+el error puede llegar a uno o mas defectos
+el defecto es todos los lados donde impacta el error, ya que puede impactar en muchos lados del sistema
+la falla es encontrar el defecto
+no se puede estar libre de errores
+si el defecto no se encuentra no hay una falla
+se encuentra en produccion la falla
+lo que se encuentra en testing son defectos
+cuando se encuentra la falla se tiene que ver si impacta en otros lados porque hay que encontrar el error, la causa de lo que se ve
+pueden haber muchos defectos con esa falla
+el tester sabe la funcionalidad y como esta implementado
+el analista funcional solo sabe el negocio
+las reuniones donde se hacen reuniones antes de terminar el sprint y se muestra lo que se hizo. el que lo hace es el tester. suelen haber 1 o 2 testers.
+lo que mas importa es que testear y debuguear no son lo mismo, el debug lo hace el desarrollador. el tester testea la funcionalidad.
+niveles y tipos de testing
+esta mal centrar el qa
+el qa debe depender de revisar procesos y no productos. le interesa que los procesos se cumplan. si es la misma persona el qa y el qc es dificil que haga las dos cosas. llamar qa al tester esta mal pero es valido. aseguramiento de calidad tiene que ver con proceso y no producto. cualquiera puede testear si es experta en el negocio, pero si no sabe ingenieria de software. hay que conocer como desarrollarlo. 
+proyecto nahual testing
+para saber programacion hay que saber cosas de logica. no se requiere tantas competencias.
+se ve arquitectura que se abstrae del lenguaje. patrones de diseño. cuando se enseña eso se mueve o implementa el diseño a un lenguaje.
+capas, persistencia, negocio. cualquiera puede programar en un lenguaje. si uno sabe desarrollar es independiente del lenguaje. para ser tester hay que saber como se programa. no puede existir un buen programador que primero no sea buen tester.
+tipos de testing:
+limpio o positivo: que funcione lo que tiene que funcionar en flujo principal, lo que tiene que hacer y fue concebido. lo mas importante es que al app haga lo que tiene que hacer.
+sucio o negativo: flujo alternativo. testear algo que no corresponde.
+en los dos se encuentrar bugs y tiene que ver con los casos de prueba. no tiene nada que ver con el resultado. si no anda sigue siendo test limpio. indistintamente si el sistema lo valida o no.
+test de regresion: si se modifica algo hay que testear de nuevo ciertas funcionalidad para que al ejecutar un subconjunto de pruebas que ya se ejecutarion y generalmente son los tests positivos. para que lo que ya funcionaba siga funcionando.
+ciclo de test o pruebas: se definen un conjunto de pruebas. sobre una version se pueden ejecutar todos los casos de prueba o no. se encuentra un error que ciertos casos de prueba no se puedan probar. el testing se va a ejecutar cada vez que hay una version que se puede testear. se tienen planificadas las pruebas y se corren. cuando se encuentra una que no anda y que no deja seguir adelante. las cosas que se siguen probando pueden depender de que los anterior salga bien. se anota lo que salio bien y lo que salio mal. cuantas pruebas se pudieron ejecutar. cualquier valor invariante o sea que no se puede seguir en ningun camino.
+hay que revisar lo que me dijeron que arreglaron y ejecutar las que no pude ejecutar anteriormente. hay un ciclo por version. si ya probe y anduvo bien no hace falta volverlo a probar. la nueva version se asigna un nuevo ciclo. no se puede ejecutar sobre la misma version los mismos resultados.
+deberia haber un tercer ciclo de pruebas que arregle el ciclo 2. en el tercero se revisa lo que arreglaron y si se ejecutaron todas las pruebas se hace una regresion para ver que lo del ciclo 1 y 2 siga andando bien. solo lo positivo. un subconjunto de pruebas definidas para esa funcionalidad. las pruebas de regresion son pruebas limpias. asegurarse a que la app siga funcionando bien y que cumpla con el flujo principal. la regresion depende de si en el primer ciclo se pudo ejecutar todo. cuando te entregan una nueva version sobre una funcionalidad ya testeada pero arregla hay que verificar que lo arreglado este bien. se sigue ejecutando lo que se ejecuto mal. antes de salir a produccion hay que ejecutar una regresion. no se suele mandar la version de pruebas para produccion a menos que sea un hotfix que se hace urgentemente porque se arregla algo en particular.
+si se prueba todo y anda todo bien tiene que haber un proceso de prueba defectuoso. solo ocurre cuando las funcionalidades del sprint esten en la misma version. 
+deberia ser lo mismo ingresar los numeros validos siempre y cuando esten en el rango valido asi que se hace solo una vez. para las pruebas se suelen tener varias como mayor o menor.
+no necesariamente suele haber una prueba limpia. por cada test limpio deberian haber mas o menos 5 sucios. siempre van a haber mas pruebas negativas.
+
+test de caja blanca: se suelen hacer con sonar qube. se hacen con herramientas porque es dificil hacerlo manualmente. inspecciona el codigo, cuantos caminos tiene, cuantas decisiones toma el codigo. calcula la complejidad ciclomatica. cuanta mas opciones hay mas complejo es peor es la calidad del codigo, cuantos niveles decision tiene. todos los caminos que toma el codigo. revisar el codigo por dentro. como se resuelven los requerimientos.
+caja negra: lo hacen los testers y no interesa el sistema. solo importa la entrada y la salida. lo que importa es que el resultado sea el esperado. dada una entrada debe haber determinada salida.
+no se puede hacer un test de caja negra sin tener un sistema funcional. la mayor riquesa del de caja blanca es combinar lo que hicieron varios desarrolladores. deberia ser antes, pero cuando nunca se hizo se puede analizar la calidad del codigo. deberia ser antes pero en la practica no siempre es primero. primero blanco o despues negro.
+
+niveles de test
