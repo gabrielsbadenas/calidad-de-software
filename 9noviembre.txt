@@ -1,0 +1,28 @@
+en un plan de pruebas debe estar toda informacion, los bugs. pueden estar planificadas las revisiones. el qa por lo general organiza las revisiones. en el rtf se revisa el producto y el proceso. la gente se reune para revisar el producto. el qa se fija si se sigue el proceso para obtener el producto y el contenido de esto. en el plan de pruebas deberia estas no debe haber casos de pruebas. el testing deberia empezar con la primera version estable con una linea base.
+la calidad tiene que ser flexible y se tiene que adaptar. en un test exploratorio tendria que anotarse lo que se esta probando. no se es mas agil por no hacer casos de prueba.
+en scrum no hay desarrolladores y testers, hay team members.
+cuando terminar? se define una tabla para aprobarla version en cantidad de errores aceptables. el criterio se define por equipo o proyecto. lo define el lider de testing. lo mas importante son los test positivos y evidenciar que cosas se probaron y que se hizo.
+niveles de testing:
+unitario o de unidades: responsabilidad del desarrollador, una porcion de codigo que prueba otro codigo. a veces se usan frameworks. suelen correr en servidor de interaccion continua que recibe los commits y genera versiones y corre las pruebas unitarias.
+tdd (test driven development) no es hacer pruebas unitarias y es una tecnica de programacion.
+pruebas de integracion: cuando me integro con otro sistema y me tengo que fijar que funcione bien. se tendria que ejecutar en el mismo servidor, lo puede hacer el desarrollador del tester.
+test de sistema: responsabilidad del tester, tienen que ver con el negocio y la arquitectura.
+test de aceptacion del usuario: las hace el usuario, independientes de las pruebas del tester, hay dos tipos: alfa y beta. 
+la alfa se hace en un ambiente controlado de testing o desarrollo y buscamos ver como interactua el usuario en el sistema y los testers ayudan al usuario. depende de cada usuario pero los usuarios quieren ver que funcione y que sirva, no quieren que los molesten y lo que van a hacer ande bien, generalmente no quieren romper todo. 
+las pruebas beta son pruebas en produccion. en beta se agregan funcionalidades para cierto tipo de usuarios. se prueban funcionalidades.
+pruebas no funcionales: usabilidad, volumen y performance, stress, regresion son no funcionales. son atributos de un producto de software. se va escalando la cantidad de usuarios para no usar siempre la cantidad porque si se hace lo mismo varias veces el resultado va a ser igual.
+los atributos de calidad de software son no funcionales.
+los dos tipos de testing son igual de importantes. las no funcionales se suelen hacer con herramientas.
+tecnicas para generar casos de pruebas, escenarios a probar. la mas conocida es la particion de equivalencias. no se toma en final.
+campos basicos de caso de prueba:
+ID del caso
+pre condicion: usuario pre existente
+objetivo: lo que se quiere hacer, dar de alta un cliente menor de edad (prueba negativa), es siempre positivo aunque el caso de prueba no lo sea. 
+pasos a seguir: los pasos a seguir para ejecutar el caso
+datos: dar de alta un cliente, si se hace dos veces va a quedar duplicado. los campos estan ahi pero los valores se hacen en el momento.
+resultado esperado: consecuencia de la ejecucion del caso, verificar que no se puede crear una cuenta para un menor de edad y aparezca un cartel. si se puede o no va a dar el resultado esperado.
+se pueden tener mas datos pero estos son los basicos
+
+registro de errores, deben ser formalmente registrados y encontrar el patron por el que ocurren los errores. la condicion necesaria para reproducirlo para poder arreglarlo.
+si no se puede reproducir no es un error
+cuando se reporta un error hay que poner las condiciones exactas, (sistema operativo, modelo del dispositivo)
