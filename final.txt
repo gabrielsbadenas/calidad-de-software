@@ -1,51 +1,85 @@
-como se genera confianza en los productos que estamos desarrollando?
-validaciones y citaciones que se hacen
-que es un test de regresion?
-un test que se hace para asegurar que luega de haber realizado un cambio todo lo relacionado a lo que no tiene que ver con esa funcionalidad no se haya modificado involuntariamente esa parte del codigo y no haga algo que no tenga que hacer
-que es un test de caja blanca?
-un test en el que se evaluan la estructura de lo que estamos desarrollando, del programa
+Final calidad de software 17-02-2021
 
-cual es la diferencia entre test funcional y no funcional?
-los test de caja negra es igual a un test funcional y al de caja blanca se le llama al estructural
-en el test de caja blanca estas probando la funcionalidad
-que es un test unitario?
-un test que se hace sobre un modulo o programa que se hace generalmente en la evaluacion de pequeños componentes
-quien lo hace?
-los desarrolladores
+... Para desarrollar confianza en los productos que estamos desarrollando
+Como se genera esa confianza?
+Por medio de validaciones y verificaciones que se hacen sobre el producto que estamnos desarrollando
 
-que es un test no funcional?
-los que testean caracteristicas generales del sistema. por ejemplo: un test de estres que sirve para probar el sistema sacandole la mitad de la memoria asignada y si se arregla sin la participacion del usuario. sometes al sistema a escenarios como sacar la mitad de memoria y ver como resuelve el sistema.
-porque es no funcional?
-porque no es una funcion del sistema, es lo que se testea.
+Que es un test de regresion?
+Es un test que se hace para asegurar que luego de haber realizado un cambio, todo lo demas relacionado pero que no tiene que ver con esa funcionalidad no se haya modificado involuntariamente. 
+O sea, que no se haya modificado esa parte del codigo y se haga algo que no se tenga que hacer.
 
-que es un test alfa?
-es cuando se hace un test en un ambiente controlado y se llama al user para que haga pruebas pero el desarrollador esta presente. 
+Que es un test no funcional?
+Son los que testean caracteristicas generales del sistema
+Ejemplo: test de stress
 
-4:52
-metricas
-ejemplo de metrica directa e indirecta
-la calidad, el grado de cumplimiento de los requerimientos establecidos
-diferencias:
-las indirectas se calculan a traves de 
-las directas se calculan a traves de mediciones o medidas de atributos del sistema
-para que sirve un indicador?
-la interpretacion de la metrica para tomar decisiones
-ejemplo: la metrica de requisitos planteados contra requisitos completados, cuantos cumplimos y de ahi indicamos que estamos adelantado o atrasados en tiempo en el proyecto
-cuales serian los indicadores?
-avanzado, en tiempo o atrasado
-si tengo 10 requisitos planteados y 4 logrados seria que estas atrasado.
-sobre 10 planteados y cumplidos 4 estas atrasado
-en base a la metrica se que estoy atrasado
-cuales son los indicadores?
-menos de 80% estas atrasado
-100% seria en tiempo y si haces mas del 100% estas avanzado
-como sabes cuantos deberias tener?
-como podes hacer mas del 100%?
-tenes que hacer 4 cosas como podes hacer 5
-planteabamos hacer 5 funciones, y si en una semana en 3 dias haciamos las 5 funciones seguiamos con lo que teniamos que hacer.
-estaba faltando el periodo, cada una semana
 
-ciclo de deming se planifica, despues se hace, se pasa a la etapa de accion, etapa de verificacion en donde se verifica que todo lo que se haya hecho este correcto y en la ultima etapa que se llama actuar se evalua en que manera se puede mejorar. 4 etapas.
-sirve para la mejora continua porque es un ciclo que se va repitiendo que busca cambiar o mejorar lo que capaz no funciona o funciona mal y a traves del ciclo es lo que se busca realizar.
-ese ciclo de deming dentro de cada etapa puede tener adentro otro ciclo o no? si
-pdsa
+Test de caja blanca o estructural. 
+Es un test en el que se evalua la estructura interna de lo que estamos desarrollando. En el mismo se esta probando funcionalidad.
+
+Que es un test unitario?
+Es un test que se hace sobre un modulo o sobre un programa que se hace generalmente en la evaluacion de pequenos componentes de software.
+Quien hace el test unitario?
+Lo hacen los desarrolladores.
+
+Que es un test alfa?
+
+Que es la calidad? Defina
+
+Cual es el objetivo del control de la calidad?
+
+Metrica indirecta? ....
+Ejemplo ....
+
+Que diferencia hay entre una metrica directa y una metrica indirecta? 
+......
+Las metricas directas se calculan a traves de mediciones de atributos del sistema
+
+Para que sirve un indicador?
+Ejemplo de indicador: avanzado, en tiempo o atrasado.
+
+Requisitos planteados vs requisitos logrados
+Entonces Si tengo 10 requisitos planteados y solo 4 logrados, entonces estoy atrasado.
+
+Evolucion historica del proceso de calidad de software ----> cuadrito del libro!!
+
+Que actividades deberia incluir un plan de calidad? 
+1er parte: tayloring. Se agarran los proceso definidos y se loa adapta al proyecto. Se empieza a generar el plan de calidad con el proceso, para el proyecto.
+Tiene que ver con como se lo va a hacer.
+
+Quien es el responsable de generar el plan de calidad? El QA
+
+
+la calidad
+
+
+
+final julio 2021
+
+Test no funcional - 
+Ejemplo?
+
+Que es la aitera ? 
+
+Cuando pasa por el comite?
+
+Para que sirve una organizacion?
+
+Que es la reunion de telaring?
+Quien/es hace/n el telaring?
+
+Que es una meeting indirecta? 
+Ejemplo de meeting indirecta?
+
+Que son los story point?
+Metrica en el caso de los story point?
+
+Puntos de funcion que son?
+
+Indicadores
+
+
+
+
+
+
+
