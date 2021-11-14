@@ -1,3 +1,5 @@
+(habia algo antes de esto)
+
 la validacion tiene que ver con el producto
 la verificacion tiene que ver con si estamos verificando el proceso
 error es lo que cualquiera puede cometer
