@@ -1,0 +1,23 @@
+1] la forma que se genera confianza en los productos que estamos desarrollando es:
+2] un test de regresion es: 
+3] un test No funcional es:
+4] un test estructural o de caja blanca es:
+5] un test unitario es:
+6] un test alfa es:
+7] la calidad es: ;la calidad de software es:
+8] el objetico del control de calidad es:
+9] la metrica indirecta es: ;ejemplo:
+10] la metrica directa es: ;ejemplo:
+11] un indicador sirve para: 
+12] #inserte cuadro de evolucion historica de la calidad de software#
+13] las actividades o artefactos que deberia incluir un plan de calidad son:
+14] las diferencias entre calidad de producto y de proceso son:
+15] el ciclo de deming es: ;los cuatro pasos son:
+16] el responsable de generar el plan de calidad es: ;es el QA? v/f 
+17] una iteracion es
+18] 
+19] 
+20] 
+21] 
+22] 
+23] 
