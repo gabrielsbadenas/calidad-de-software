@@ -15,9 +15,9 @@
 15] el ciclo de deming es: ;los cuatro pasos son:
 16] el responsable de generar el plan de calidad es: ;es el QA? v/f 
 17] una iteracion es
-18] 
-19] 
-20] 
-21] 
-22] 
-23] 
+18] se pasa por el comite de cambio cuando:
+19] una organizacion sirve para:
+20] una reunion de tailoring es: 
+21] una metrica indirecta es: ; un ejemplo de metrica indirecta es:
+22] los story points son:
+23] los puntos de funcion son:
