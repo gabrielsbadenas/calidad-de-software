@@ -1,14 +1,14 @@
 1] la forma que se genera confianza en los productos que estamos desarrollando es:
-2] un test de regresion es: 
-3] un test No funcional es:
-4] un test estructural o de caja blanca es:
-5] un test unitario es:
-6] un test alfa es:
-7] la calidad es: ;la calidad de software es:
-8] el objetico del control de calidad es:
-9] la metrica indirecta es: ;ejemplo:
-10] la metrica directa es: ;ejemplo:
-11] un indicador sirve para: 
+2] un test de regresion es: (una prueba en la que se fija si las cosas que andaban antes sigan andando despues de hacer un cambio.); si se modifica algo hay que testear de nuevo ciertas funcionalidades para que al ejecutar el subconjunto de pruebas que ya se ejecutaron se ejecute todo de forma que lo que antes funcionaba siga funcionando. generalmente son tests positivos. 
+3] un test No funcional es: una prueba que testea caracteristicas generales del sistema y que se suele hacer con herramientas. ejemplos de test no funcional son usabilidad, volumen, stress (sirve para probar el sistema), performance, atributos de calidad de software y regresion.
+4] un test estructural o de caja blanca es: un test que calcula la complejidad ciclomatica, cuantos mas caminos o opciones tiene el programa, mas complejo es (mas complejo=peor calidad de codigo). se suele hacer con herramientas como sonar qube, porque es muy dificil de hacer manualmente. {test de caja blanca: se suelen hacer con sonar qube. se hacen con herramientas porque es dificil hacerlo manualmente. inspecciona el codigo, cuantos caminos tiene, cuantas decisiones toma el codigo. calcula la complejidad ciclomatica. cuanta mas opciones hay mas complejo es peor es la calidad del codigo, cuantos niveles decision tiene. todos los caminos que toma el codigo. revisar el codigo por dentro. como se resuelven los requerimientos.}
+5] un test unitario es: una prueba que hacen los desarrolladores que tiene una porcion de codigo que testea el resto del codigo, se hace sobre un modulo o programa cuando se evalua que una parte del codigo haga lo que debe hacer. (tiene que ver con el debug)?
+6] un test alfa es: una prueba que se hace en un ambiente controlado, ya sea de testing o de desarrollo, para ver como interactua el usuario en el sistema, con testers ayudandolo. en este caso los usuarios solo quieren ver que funcione y que sirva el software para lo que fue creado, no intentan romper el sistema.
+7] la calidad es: satisfacer las necesidades del cliente; la calidad de software es: (satisfacer los requerimientos de los usuarios del software que estamos desarrollando)
+8] el objetico del control de calidad es: (hacer un producto que al cliente le guste)
+9] la metrica indirecta es: (metrica indirecta sirve para estimaciones subjetivas, se generan a partir de calculos previos subjetivos, todo es relativo, las metricas, los indicadores, no necesariamente es la realidad lo que muestran las metricas, la persona que va a tomar la decision tiene que saber las medidas que le interesan para obtener lo que necesita. tiene que entender las medidas que se toman en cuenta. si no entendes sobre el tema haces malas metricas) ;ejemplo: velocity (story point y sprint son las medidas, se calcula la cantidad de story points cumplidos por sprint)
+10] la metrica directa es: una que tengo un resultado del calculo entre dos medidas;ejemplo:
+11] un indicador sirve para: darle contexto a la metrica en la empresa, son rangos de valores
 12] #inserte cuadro de evolucion historica de la calidad de software#
 13] las actividades o artefactos que deberia incluir un plan de calidad son:
 14] las diferencias entre calidad de producto y de proceso son:
