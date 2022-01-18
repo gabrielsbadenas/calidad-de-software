@@ -1,4 +1,4 @@
-1] la forma que se genera confianza en los productos que estamos desarrollando es:
+1] la forma que se genera confianza en los productos que estamos desarrollando es: saber que estamos haciendo lo que el cliente quiere
 2] un test de regresion es: (una prueba en la que se fija si las cosas que andaban antes sigan andando despues de hacer un cambio.); si se modifica algo hay que testear de nuevo ciertas funcionalidades para que al ejecutar el subconjunto de pruebas que ya se ejecutaron se ejecute todo de forma que lo que antes funcionaba siga funcionando. generalmente son tests positivos. 
 3] un test No funcional es: una prueba que testea caracteristicas generales del sistema y que se suele hacer con herramientas. ejemplos de test no funcional son usabilidad, volumen, stress (sirve para probar el sistema), performance, atributos de calidad de software y regresion.
 4] un test estructural o de caja blanca es: un test que calcula la complejidad ciclomatica, cuantos mas caminos o opciones tiene el programa, mas complejo es (mas complejo=peor calidad de codigo). se suele hacer con herramientas como sonar qube, porque es muy dificil de hacer manualmente. {test de caja blanca: se suelen hacer con sonar qube. se hacen con herramientas porque es dificil hacerlo manualmente. inspecciona el codigo, cuantos caminos tiene, cuantas decisiones toma el codigo. calcula la complejidad ciclomatica. cuanta mas opciones hay mas complejo es peor es la calidad del codigo, cuantos niveles decision tiene. todos los caminos que toma el codigo. revisar el codigo por dentro. como se resuelven los requerimientos.}
@@ -7,17 +7,17 @@
 7] la calidad es: satisfacer las necesidades del cliente; la calidad de software es: (satisfacer los requerimientos de los usuarios del software que estamos desarrollando)
 8] el objetico del control de calidad es: (hacer un producto que al cliente le guste)
 9] la metrica indirecta es: (metrica indirecta sirve para estimaciones subjetivas, se generan a partir de calculos previos subjetivos, todo es relativo, las metricas, los indicadores, no necesariamente es la realidad lo que muestran las metricas, la persona que va a tomar la decision tiene que saber las medidas que le interesan para obtener lo que necesita. tiene que entender las medidas que se toman en cuenta. si no entendes sobre el tema haces malas metricas) ;ejemplo: velocity (story point y sprint son las medidas, se calcula la cantidad de story points cumplidos por sprint)
-10] la metrica directa es: una que tengo un resultado del calculo entre dos medidas;ejemplo:
+10] la metrica directa es: una que tengo un resultado del calculo entre dos medidas y La medición se realiza utilizando la escala del instrumento de medición; ejemplo:
 11] un indicador sirve para: darle contexto a la metrica en la empresa, son rangos de valores
 12] #inserte cuadro de evolucion historica de la calidad de software#
-13] las actividades o artefactos que deberia incluir un plan de calidad son:
-14] las diferencias entre calidad de producto y de proceso son:
-15] el ciclo de deming es: ;los cuatro pasos son:
+13] las actividades o artefactos que deberia incluir un plan de calidad son: 
+14] las diferencias entre calidad de producto y de proceso son: 
+15] el ciclo de deming es: una espiral de mejora continua de la calidad y un metodo sistematico para resolver problemas; los cuatro pasos son: planificar, hacer, verificar, actuar
 16] el responsable de generar el plan de calidad es: ;es el QA? v/f 
-17] una iteracion es
-18] se pasa por el comite de cambio cuando:
+17] una iteracion es una repeticion, es una medida de tiempo de desarrollo, suele durar entre una semana y un mes
+18] se pasa por el comite de cambio cuando: se cumplen ciertos criterios definidos por cada proyecto, en base a cuanto impacto tienen. si cambia la arquitectura o los casos de pruebas o algo mas impactante. trazabilidad es poder llegar de un sachet de leche a la vaca que lo produjo. trazar el camino al inicio del proyecto.
 19] una organizacion sirve para:
-20] una reunion de tailoring es: 
-21] una metrica indirecta es: ; un ejemplo de metrica indirecta es:
-22] los story points son:
-23] los puntos de funcion son:
+20] una reunion de tailoring es: una meeting que sirve para que se adapte un proceso standard a un proyecto en especifico. se juntan para ver como se hace el proyecto. definen un proceso customizado para ese proyecto desde el proceso estandar. la persona que conoce el proyecto dice que cosas se sacan o agregan del proceso.
+21] una metrica indirecta es: una Comparación con el dispositivo de referencia; un ejemplo de metrica indirecta es:
+22] los story points son: una medicion de la cantidad de esfuerzo que hay que realizar para lograr un objetivo o tarea.
+23] los puntos de funcion son: una medida del tamaño funcional del Software.
